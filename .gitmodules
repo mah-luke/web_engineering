@@ -1,0 +1,9 @@
+[submodule "a2-group-85"]
+	path = a2-group-85
+	url = ./
+[submodule "a3-group-85"]
+	path = a3-group-85
+	url = ./
+[submodule "a4-group-85"]
+	path = a4-group-85
+	url = ./
